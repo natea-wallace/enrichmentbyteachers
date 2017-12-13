@@ -10,7 +10,7 @@ class Header extends React.Component {
         <img src={logo} className="App-logo" alt="logo"/>
         
         <h1 className="App-title">
-          Books By Teachers </h1>
+          Enrichment By Teachers </h1>
       </header>
       </div>)
   }
